@@ -1,7 +1,7 @@
 ![Header](https://github.com/Ayushkumar1240/Ayushkumar1240/blob/main/hackergithub.png)
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A full fledged Frontend Developer and a Data Analyst.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="900" height="500" align="center" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar1240&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar1240" /> </p>
@@ -15,6 +15,14 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **ayushkumar4975@gmail.com**
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar1240&show_icons=true&theme=aura">
+
+### IDE/Editor (s) In Use:
+<img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
+<img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-005ba4?logo=visualstudiocode">
+<br>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +39,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar1240&show_icons=true&locale=en&layout=compact" alt="ayushkumar1240" /></p>
 
 <p><img align="center" src="https://camo.githubusercontent.com/019ceea13e10111073790b8146ad3a70983a527b6d653ea519c46bbbdd82a7d9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d61797573686b756d61723132343026" alt="ayushkumar1240" /></p>
+<img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+</p>
