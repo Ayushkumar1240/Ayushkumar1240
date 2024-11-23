@@ -1,6 +1,6 @@
-![Header](https://github.com/Ayushkumar1240/Ayushkumar1240/blob/main/hackergithub.png)
+
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A full fledged Frontend Developer and a Data Analyst.</h3>
+<h3 align="center">I am a FullStack Developer and a Data Analyst.</h3>
 <img align="right" alt="coding" width="900" height="500" align="center" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
