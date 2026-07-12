@@ -1,43 +1,519 @@
+<!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">I am a FullStack Developer and a Data Analyst.</h3>
-<img align="right" alt="coding" width="900" height="500" align="center" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Ayush%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar1240&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar1240" /> </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkumar1240" alt="ayushkumar1240" /></a> </p>
+<h1 align="center">
+Hi 👋 I'm Ayush Kumar
+</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">
+Full Stack Software Engineer • Backend Engineer • Flutter Developer
+</h3>
 
-- 🌱 I’m currently learning **Next js**
+<p align="center">
 
-- 💬 Ask me about **anything**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Software+Engineer;Backend+Developer;Flutter+Developer;Building+Scalable+Applications;Microservices+Architecture;Always+Learning+New+Technologies"/>
 
-- 📫 How to reach me **ayushkumar4975@gmail.com**
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar1240&show_icons=true&theme=aura">
+</p>
 
-### IDE/Editor (s) In Use:
-<img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
-<img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-005ba4?logo=visualstudiocode">
-<br>
+<p align="center">
 
+<a href="https://github.com/Ayushkumar1240">
+<img src="https://img.shields.io/github/followers/Ayushkumar1240?label=Followers&style=for-the-badge&logo=github"/>
+</a>
 
+<img src="https://komarev.com/ghpvc/?username=Ayushkumar1240&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
-<h3 align="left">Connect with me:</h3>
+<a href="mailto:ayushkumar4975@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JxcnV3bDdlMzFwbTVsNXdqZ2MwdzF0bXBjNGx1YmZsM2VtbmQzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+### 👨‍💻 Software Engineer with 2+ years of experience
+
+I build **high-performance web and mobile applications** using modern technologies with a strong focus on **backend engineering, scalable architectures, security, and cloud deployments**.
+
+### 💼 Professional Experience
+
+- 🔹 Full Stack Software Development
+- 🔹 Backend API Development
+- 🔹 Flutter Mobile Apps
+- 🔹 Microservices Architecture
+- 🔹 REST & GraphQL APIs
+- 🔹 Enterprise Product Development
+- 🔹 Performance Optimization
+- 🔹 Secure Coding (OWASP Top 10)
+
+### 🌱 Currently Learning
+
+- Next.js
+- Kubernetes
+- System Design
+- Distributed Systems
+
+### ⚡ Fun Fact
+
+I enjoy transforming complex business requirements into scalable software solutions.
+
+---   
+<!-- ========================= PROFESSIONAL HIGHLIGHTS ========================= -->
+
+# 💼 Professional Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Enterprise Development
+
+- Built scalable **web & mobile applications**
+- Developed **microservices-based architectures**
+- Designed secure **REST & GraphQL APIs**
+- Worked across **frontend, backend & cloud**
+
+</td>
+
+<td width="50%">
+
+### 🔐 Security
+
+- Resolved critical **VAPT findings**
+- Implemented **JWT Authentication**
+- Designed **Role-Based Access Control (RBAC)**
+- Mitigated **SQL Injection, XSS & CSRF**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Performance
+
+- Optimized backend APIs
+- Improved database query performance
+- Worked on high-volume transaction systems
+- Built scalable backend services
+
+</td>
+
+<td width="50%">
+
+### 🔗 Third-Party Integrations
+
+- Razorpay
+- Shopify (REST & GraphQL)
+- Firebase
+- Shiprocket
+- SAP Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/ayush kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush kumar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100021265728410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayush_3088" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ayush_3088" height="30" width="40" /></a>
-<a href="https://leetcode.com/ayushkumar1240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushkumar1240/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ayushkumar4975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ayushkumar4975" height="30" width="40" /></a>
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,dart"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar1240&show_icons=true&locale=en&layout=compact" alt="ayushkumar1240" /></p>
+## 🎨 Frontend
 
-<p><img align="center" src="https://camo.githubusercontent.com/019ceea13e10111073790b8146ad3a70983a527b6d653ea519c46bbbdd82a7d9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d61797573686b756d61723132343026" alt="ayushkumar1240" /></p>
-<img width="120%"  src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,flutter,html,css"/>
+
 </p>
+
+---
+
+## ⚙ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+</p>
+
+**Also Experienced With**
+
+- GraphQL
+- REST APIs
+- Microservices
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+
+---
+
+## 🗄 Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
+
+</p>
+
+**Worked With**
+
+- Microsoft SQL Server
+- Oracle Database
+- Prisma ORM
+
+---
+
+## ☁ Cloud & DevOps
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,nginx"/>
+
+</p>
+
+**Deployment Tools**
+
+- PM2
+- GitHub Actions
+- CI/CD Pipelines
+- AWS EC2
+- AWS S3
+
+---
+
+## 🧰 Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,firebase"/>
+
+</p>
+
+**Other Tools**
+
+- Power BI
+- Tableau
+- Android Studio
+- Figma
+
+---
+
+# 📌 Core Expertise
+
+```text
+✔ Full Stack Development
+✔ Backend Engineering
+✔ Flutter Development
+✔ Microservices Architecture
+✔ System Design
+✔ API Design
+✔ Database Optimization
+✔ Performance Tuning
+✔ Secure Coding
+✔ Cloud Deployment
+✔ CI/CD
+✔ Enterprise Application Development
+```
+
+---
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushkumar1240&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar1240&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushkumar1240&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar1240&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 Developer Metrics
+
+<div align="center">
+
+| Metric | Value |
+|:-------|:------|
+| 💻 Experience | 2+ Years |
+| 🏢 Enterprise Projects | 8+ |
+| 📱 Mobile Apps | Flutter |
+| 🌐 Web Applications | MERN Stack |
+| ⚡ Backend APIs | Node.js, Express |
+| ☁ Cloud | AWS |
+| 🔐 Security | OWASP, VAPT |
+| 🏗 Architecture | Microservices |
+
+</div>
+
+---
+
+# 🌱 Currently Working On
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 Enterprise Applications
+
+- Rajnigandha Rewards Platform
+- DS Group Employee Portal
+- Farm Connect
+- Ksheer Dairy
+
+</td>
+
+<td width="50%">
+
+### 📚 Currently Learning
+
+- Next.js
+- Kubernetes
+- Advanced System Design
+- Distributed Systems
+- Cloud Native Applications
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💡 Engineering Interests
+
+- 🔹 Backend Development
+- 🔹 High Performance APIs
+- 🔹 Distributed Systems
+- 🔹 Scalable Microservices
+- 🔹 Flutter Development
+- 🔹 Cloud Engineering
+- 🔹 Performance Optimization
+- 🔹 Secure Software Development
+
+---   
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# ⭐ Featured Enterprise Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🏆 Rajnigandha Rewards Platform
+
+Enterprise rewards ecosystem powering secure coupon redemption and high-volume payouts.
+
+**Highlights**
+
+- Microservices Architecture
+- Razorpay Integration
+- Shopify REST & GraphQL APIs
+- JWT Authentication
+- RBAC
+- VAPT Remediation
+- MySQL Performance Optimization
+
+**Tech Stack**
+
+`React` `Node.js` `MySQL` `GraphQL` `AWS`
+
+</td>
+
+<td width="50%">
+
+### 🚜 Farm Connect
+
+Flutter-based mobile platform connecting field agents with a centralized admin dashboard.
+
+**Highlights**
+
+- Flutter Mobile App
+- React Admin Panel
+- JWT Authentication
+- Firebase Notifications
+- Location Tracking
+- Secure REST APIs
+
+**Tech Stack**
+
+`Flutter` `React` `Node.js` `Firebase`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🥛 Ksheer Dairy
+
+Subscription-based eCommerce platform supporting recurring billing and delivery scheduling.
+
+**Highlights**
+
+- Product Catalog
+- Subscription Management
+- Razorpay Integration
+- Delivery Scheduling
+- Admin Dashboard
+
+**Tech Stack**
+
+`Angular` `Node.js` `MSSQL`
+
+</td>
+
+<td width="50%">
+
+### 👨‍💼 Business Club
+
+Enterprise loyalty platform for reward management and order fulfillment.
+
+**Highlights**
+
+- Points Redemption
+- Shiprocket Integration
+- Zillion Integration
+- Secure APIs
+- OWASP Compliance
+
+**Tech Stack**
+
+`React` `Node.js` `MySQL`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Achievements
+
+🏅 Built and maintained enterprise-grade applications
+
+🏅 Designed scalable backend APIs
+
+🏅 Worked on high-volume transaction systems
+
+🏅 Integrated multiple enterprise services
+
+🏅 Improved application security through VAPT remediation
+
+🏅 Experience across Web, Mobile and Cloud technologies
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayushkumar4975@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/ayushkumar1240">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/ayush_3088">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ayushkumar1240">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ayushkumar1240&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+### *"Great software isn't just about writing code—it's about solving real-world problems with scalable, secure, and maintainable solutions."*
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Create the GitHub Action first, then uncomment the line below.**
+
+html
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ayushkumar1240/Ayushkumar1240/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
