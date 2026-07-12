@@ -498,10 +498,6 @@ Enterprise loyalty platform for reward management and order fulfillment.
 ---
 
 # 🐍 Contribution Snake
-
-> **Create the GitHub Action first, then uncomment the line below.**
-
-html
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ayushkumar1240/Ayushkumar1240/output/github-contribution-grid-snake.svg">
 </p>
